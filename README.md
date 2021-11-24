@@ -1,10 +1,11 @@
-### Hi there, I am Subhamoy Mandal 👋
+
 
 <!--
 **Subha0627/Subha0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 <img src="Blue and White Architect LinkedIn Banner (1).png">
+### Hi there, I am Subhamoy Mandal 👋
 <ul>
   <li>🔭 I’m currently working as a Full Stack Web Developer Intern at GEOGO Techsolutions.</li>
   <li>🌱 I’m currently pursuing my B.Tech in Computer Science and Engineering.</li>
